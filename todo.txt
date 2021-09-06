@@ -1,2 +1,3 @@
 - usouvztažnit víc titulek a slidy
 - jasněji prodat výsledky experimentu
+- boxplot před statistiku: jasnější vysvětlení
