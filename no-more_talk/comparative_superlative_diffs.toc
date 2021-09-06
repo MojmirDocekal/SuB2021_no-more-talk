@@ -1,0 +1,14 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {1}{Basic Contrasts}{2}{0}{1}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {2}{Testing Czech \textit {no more than}}{8}{0}{2}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {3}{Experiment}{17}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@subsectionintoc {3}{1}{Results}{26}{0}{3}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {4}{Analysis}{32}{0}{4}
+\defcounter {refsection}{0}\relax 
+\beamer@sectionintoc {5}{Bibliography}{42}{0}{5}
